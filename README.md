@@ -21,4 +21,4 @@ The main goal of this repository is to improve my understanding of Pandas throug
 - Jupyter Notebook
 
 ## Author
-[Kumar Kartikay]
+# Kumar Kartikay
